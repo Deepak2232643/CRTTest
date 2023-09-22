@@ -7,6 +7,7 @@ Suite Teardown                End suite
 *** Test Cases ***
 Entering A Lead
 # edit a line in crt
+# edit in githhub
     [tags]                    Lead                        Git Repo Exercise
     Appstate                  Home
     LaunchApp                 Sales
